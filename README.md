@@ -1,2 +1,2 @@
-# Javascriot
+# Javascript
 A code for javascipt
